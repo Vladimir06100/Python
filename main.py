@@ -1,1 +1,2 @@
-print('Bogdan')
+print('Salut Bogdan')
+print('coucou')
